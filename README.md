@@ -88,7 +88,7 @@ The repository contains the scripts used to reproduce the experiments presented 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/spotify-playlist-multiobjective-optimization.git
+git clone https://github.com/tomislavcupic/spotify-playlist-multiobjective-optimization.git
 cd spotify-playlist-multiobjective-optimization
 ```
 
